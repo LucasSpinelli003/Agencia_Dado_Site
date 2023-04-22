@@ -1,0 +1,10 @@
+.conteudo{
+    display: flex;
+    justify-content: center;
+}
+.conteudo h1{
+    padding: 5vh;
+    font-size: 35px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-style: italic;
+}
