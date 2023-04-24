@@ -1,6 +1,9 @@
 @import url(./cabecalho.css);
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
 @import url(./conteudo.css);
+@import url(./rodape.css);
+@import url(./cabecalho_b.css);
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
 *{
     margin: 0;
     padding: 0;

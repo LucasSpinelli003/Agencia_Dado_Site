@@ -1,0 +1,17 @@
+.rodape{
+    display: flex;
+}
+.rodape h1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 100%;
+    align-items: center;
+    width: 98.7vw;
+    height: 6vh;
+    background-color: #c7c6c6;
+}
+
+
