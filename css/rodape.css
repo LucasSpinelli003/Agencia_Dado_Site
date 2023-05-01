@@ -1,17 +1,29 @@
 .rodape{
     display: flex;
+    background-color: #c7c6c6;
+    justify-content: space-around;
+}
+.rodape nav{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    
 }
 .rodape h1{
     display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content: center;
+    flex-direction:row;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 100%;
     align-items: center;
-    width: 98.7vw;
-    height: 6vh;
-    background-color: #c7c6c6;
+}
+.rodape img{
+    display:flex;
+    flex-direction: row;
+    width: 50px;
+    height: 50px;
+    align-items: center;
+
 }
 
 
